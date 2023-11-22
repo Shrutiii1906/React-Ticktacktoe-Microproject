@@ -1,0 +1,31 @@
+.quote{
+    height: 290px;
+    width: 282px;
+    flex-shrink: 0;
+    border-radius: 18px;
+    background: #192A32;
+    
+}
+.quote h3{
+    color: #31C4BE;
+    font-family: DM Sans;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-left: 15vh;
+    padding-top: 5vh;
+}
+.quote .blue{
+    width: 29px;
+    height: 29px;
+    flex-shrink: 0;
+    background-color: #31C4BE;
+    border-radius: 50px;
+    margin-left: 22vh;
+    margin-top: 30vh;
+}
+.quote .blue .group{
+    padding-left:1.5vh;
+    padding-top: 1vh;
+}

@@ -1,0 +1,94 @@
+.mobile{
+    width: 416px;
+    height: 100vh;
+    flex-shrink: 0;
+    border-radius: 43px;
+    background: #192A32;
+  }
+  .mobile .monkey{
+    padding-top: 10vh;
+    padding-left: 30vh;
+  }
+  .mobile .vector{
+    padding-left: 3vh;
+  }
+  .mobile .small{
+    width: 307px;
+    height: 140px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    background: #1F3540;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-left: 10vh;
+    margin-top: 5vh;
+  }
+  .mobile .small h2{
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-left: 13vh;
+    padding-top: 3vh;
+  }
+  .mobile .small .buttoncomp{
+    width: 276px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #192A32;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 3vh;
+    margin-left: 2vh;
+    display: flex;
+  }
+  .mobile .small .buttoncomp button{
+    width: 25vh;
+  }
+  .mobile .yellowb{
+    color: #192A32;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 307px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F2B237;
+    margin-top: 6vh;
+    margin-left: 10vh;
+  }
+  .mobile .blueb{
+    width: 307px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #32C4C3;
+    color: #192A32;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 6vh;
+    margin-left: 10vh;
+  }
+  .mobile .yellowb1{
+    width: 225px;
+    height: 33px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F2B237;
+    color: #192A32;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 6vh;
+    margin-left: 18vh;
+
+  }
